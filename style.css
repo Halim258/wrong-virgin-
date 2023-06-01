@@ -2,20 +2,17 @@
     font-family: 'Inter', sans-serif;
 }
 
-
 @supports (font-variation-settings: normal) {
     :root {
         font-family: 'Inter var', sans-serif;
     }
 }
 
-
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
 }
-
 
 .navigation {
     display: flex;
@@ -25,11 +22,9 @@
     justify-content: flex-end;
 }
 
-
 .header-links {
     display: none;
 }
-
 
 .main {
     position: relative;
