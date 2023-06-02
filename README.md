@@ -156,7 +156,7 @@ I would like to thank my Microverse learning partners: Santaigo, Abiel and Kathr
 
 
 
-## 📝 License <a name="license"></a>
+## 📝 License <a name="License"></a>
 
 
 This project is [MIT](./LICENSE.md) licensed.
